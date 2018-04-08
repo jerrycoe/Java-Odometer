@@ -11,3 +11,6 @@ Include the following methods only:
 <li>set fuel efficiency when given a value in miles per gallon</li>
 <li>adds miles to the odometer when given a value for miles driven</li>
 <li>get gallons consumed of gasoline returns gallons (gallons = miles / mpg)</li>
+
+<img src="screenshot.png" />
+
